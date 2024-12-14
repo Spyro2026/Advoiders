@@ -23,7 +23,7 @@
 
 1. **Download or clone the repository**:
    ```bash
-   git clone https://github.com/Spyro2026/avoiders.git
+   git clone https://github.com/Spyro2026/Advoiders.git
 
 2. **Navigate to the project directory**:
    ```bash
@@ -41,7 +41,7 @@
 
 ### Option 2: Download the `.love` File
 
-1. Go to the [Releases section](https://github.com/Spyro2026/avoiders/releases) of the repository.
+1. Go to the [Releases section](https://github.com/Spyro2026/Advoiders/releases) of the repository.
 2. Download the `Advoiders.love` file from the latest release.
 3. **Run the game**:
    - **Windows**: Simply drag and drop the `Advoiders.love` file onto the Love2D executable.
