@@ -24,60 +24,32 @@
 1. **Download or clone the repository**:
    ```bash
    git clone https://github.com/yourusername/avoiders.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd avoiders
-Run the game with Love2D:
+2. **Navigate to the project directory**:
+   ```bash
+   cd avoiders
 
-On Windows, run the game with:
-bash
-Copy code
-love .
-On macOS or Linux, open the terminal and run:
-bash
-Copy code
-love .
-Option 2: Download the .love File
-Go to the Releases section of the repository.
-Download the Advoiders.love file from the latest release.
-Run the game:
-Windows: Simply drag and drop the Advoiders.love file onto the Love2D executable.
-macOS: Open the terminal and run the .love file with the following command:
-bash
-Copy code
-love Advoiders.love
-Linux: Open the terminal and run the .love file:
-bash
-Copy code
-love Advoiders.love
-Controls
-Arrow Keys or WASD to move the player.
-Enter to start the game or submit your name after a game over.
-Escape to go back to the title screen.
-High Scores
-High scores are tracked locally in the highscore.json file. When you finish a game, you can enter your name, and your score will be saved if it's among the highest.
+3. **Run the game with Love2D**:
+   - On Windows, run the game with:
+     ```bash
+     love .
+     ```
+   - On macOS or Linux, open the terminal and run:
+     ```bash
+     love .
+     ```
 
-Resetting High Scores
-You can reset all high scores from the title screen by pressing the "Reset High Scores" option.
+### Option 2: Download the `.love` File
 
-Credits
-Game Developer: Your Name
-Art and Assets: (List any contributors if applicable)
-Sound and Music: (List any contributors if applicable)
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Contributing
-Feel free to fork the repository, submit pull requests, or open issues if you'd like to contribute to the project!
-
-Contact
-If you have any questions or feedback, feel free to contact me:
-
-Email: your.email@example.com
-GitHub: yourusername
-Thanks for playing Avoiders!
-
-less
-Copy code
+1. Go to the [Releases section](https://github.com/yourusername/avoiders/releases) of the repository.
+2. Download the `Advoiders.love` file from the latest release.
+3. **Run the game**:
+   - **Windows**: Simply drag and drop the `Advoiders.love` file onto the Love2D executable.
+   - **macOS**: Open the terminal and run the `.love` file with the following command:
+     ```bash
+     love Advoiders.love
+     ```
+   - **Linux**: Open the terminal and run the `.love` file:
+     ```bash
+     love Advoiders.love
+     ```
