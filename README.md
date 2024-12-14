@@ -23,7 +23,7 @@
 
 1. **Download or clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/avoiders.git
+   git clone https://github.com/Spyro2026/avoiders.git
 
 2. **Navigate to the project directory**:
    ```bash
