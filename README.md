@@ -41,7 +41,7 @@
 
 ### Option 2: Download the `.love` File
 
-1. Go to the [Releases section](https://github.com/yourusername/avoiders/releases) of the repository.
+1. Go to the [Releases section](https://github.com/Spyro2026/avoiders/releases) of the repository.
 2. Download the `Advoiders.love` file from the latest release.
 3. **Run the game**:
    - **Windows**: Simply drag and drop the `Advoiders.love` file onto the Love2D executable.
